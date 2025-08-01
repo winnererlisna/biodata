@@ -1,0 +1,26 @@
+[
+ {
+    "nama" : "winner erlisna",
+    "tempat_lahir" : "Bandung",
+    "tanggal_lahir" :"2008-06-27",
+    "alamat" : {
+        "jalan" : "Jl Graha Rancamanyar, mawar 2, no.45",
+        "desa" : "Rancamanyar",
+        "kecamatan" : "Baleendah"
+    },
+    "hobi" : [
+        "baca novel",
+        "make up",
+        "shooping"
+    ],
+    "kontak" : {
+        "email" : "winnererlisna@gmail.com",
+        "whatsapp" : "082132123730",
+        "github" : "winnererlisna",
+        "instagram" : "@wnrrlsna"
+    }
+    
+
+
+ }
+]

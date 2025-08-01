@@ -1,0 +1,94 @@
+[
+    {
+        "nama" : "Bellossom",
+        "tipe" : "daun",
+        "kelemahan" : [
+            "api",
+            "es",
+            "racun",
+            "terbang",
+            "serangga"
+        ],
+        "tinggi" : "0.4 m",
+        "berat" : "5.8 kg",
+        "kategori" : "pokemon bunga",
+        "kemampuan" : "klorofil",
+        "evolusi" :[
+            "oddish",
+            "gloom",
+            "vileplume"
+        ]
+    },
+    {
+        "nama" : "cleffa",
+        "tipe" : "peri",
+        "kelemahan" : [
+            "logam",
+            "racun"
+        ],
+        "tinggi" : "0.3 m",
+        "berat" : "3.0 m",
+        "kategori" : "pokemon bentuk bintang",
+        "kemampuan" : "tubuh mempesona magic guard",
+        "evolusi" : [
+            "clefairy",
+            "clefable"
+        ]
+    },
+    {
+        "nama" : "squirtle",
+        "tipe" : "air",
+        "kelemahan" : [
+            "daun",
+            "listrik"
+        ],
+        "tinggi" : "0.5 m",
+        "berat" : "9.0 kg",
+        "kategori" : "pokemon anak kura-kura",
+        "kemampuan" : "arus deras",
+        "evolusi" : [
+            "wartortle",
+            "blastoise"
+        ]
+    },
+    {
+        "nama" : "butterfree gigantamax",
+        "tipe" : [
+            "serangga",
+            "terbang"
+        ],
+        "kelemahan" : [
+            "api",
+            "listrik",
+            "es",
+            "terbang",
+            "babatuan"
+        ],
+        "tinggi" : "17.0 m",
+        "berat" : "???.0 kg",
+        "kategori" : "-",
+        "kemampuan" : "mata majemuk",
+        "evolusi" : "butterfree"
+    },
+    {
+        "nama" : "ninetales bentuk anola",
+        "tipe" : [
+            "es",
+            "peri"
+        ],
+        "kelemahan" : [
+            "api",
+            "racun",
+            "logam",
+            "babatuan"
+        ],
+        "tinggi" : "1.1 m",
+        "berat" : "19.9 kg",
+        "kategori" : "pokemon rubah",
+        "kemampuan" : "persembunyian salju",
+        "evolusi" : [
+            "vulpix",
+            "ninetales"
+        ]
+    }
+]
